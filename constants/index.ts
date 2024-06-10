@@ -17,33 +17,34 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Real maps can be offline',
+    title: 'Trustworthy',
     icon: '/star.png',
     variant: 'green',
     description:
-      'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
-  },
+      'We handle every event as if it were our own, ensuring top-quality service. Relax and trust us to manage every detail with care and professionalism, giving you peace of mind and a memorable experience.'
+    },
   {
-    title: 'Set an adventure schedule',
-    icon: '/calendar.svg',
+      title: 'Detailed Planning',
+      icon: '/calendar.svg',
+      variant: 'orange',
+      description:
+        'We meticulously plan every detail of your event, providing a well-organized calendar schedule. This ensures seamless execution, allowing you to enjoy your special day without worrying about the logistics or timing of any element.',
+    },
+  {
+    title: 'Creative and Innovative',
+    icon: '/tech.png',
     variant: 'green',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      "Experience unique designs and plans you've never seen before. Whether you want a modern aesthetic or a culturally authentic wedding, our creativity ensures your event is charming, stylish, and perfectly tailored to your vision.",
   },
   {
-    title: 'Technology using augment reality',
-    icon: '/tech.svg',
+    title: 'Talented Team',
+    icon: '/team.png',
     variant: 'green',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      'Our talented teams in decoration, DJ, entertainment, and lighting guarantee the best experience. Each team member is dedicated to their craft, ensuring every aspect of your event is handled with expertise and exceptional attention to detail.',
   },
-  {
-    title: 'Many new locations every month',
-    icon: '/location.svg',
-    variant: 'orange',
-    description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
-  },
+  
 ];
 
 // FOOTER SECTION
