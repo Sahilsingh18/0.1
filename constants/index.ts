@@ -1,8 +1,8 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/#guide', key: 'how_hilink_work', label: 'How Blessings Work?' },
-  { href: '/#features', key: 'services', label: 'Services' },
+  { href: '/#guide', key: 'how_hilink_work', label: 'How Blessings Works?' },
+  { href: '/#features', key: 'services', label: 'Features' },
     { href: '/#footer', key: 'contact_us', label: 'Contact Us' },
 ];
 
